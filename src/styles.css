@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "Michroma";
+    src: url("../public/resources/Michroma.ttf");
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+p{font-size: 20px;}
+h1{font-size: 30px;}
+li{font-size: 18px;}
+
+hr{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-color: white;
+}
+
+html{
+    background: url(../public/resources/background.png) fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    font-family: "Michroma";
+    color: white;
+}
+
+body{
+    background-color: transparent;
+    background-size: cover;
+}
+
+button{
+    background-color: #101010;
+    font-family: "Michroma";
+    font-size: 20px;
+    color: white;
+}
+
+#Principal{
+    display: block;
+    text-align: center;
+}
+
+#Logo{
+    height: 350px;
+    width: auto;
+}
+
+#Titulo{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 75px;
+}
+
+.Cartelera{
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+.Portada{
+    display: inline;
+    width: 350px;
+    height: auto;
+}
+
+.Descripcion{
+    display: block;
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 700px;
+}
+
+.Actores{
+    font-style: italic;
+}
+
+#TituloOpiniones{
+    display: block;
+    text-align: center;
+}
+
+.Opiniones{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 125px;
+}

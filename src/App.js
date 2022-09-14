@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import './styles.css';
+import Pelicula from './components/Pelicula';
+import peliculas from './json/peliculas.json';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div>
+      <header>
+        <h1 id="Titulo">CARTELERA</h1>
       </header>
+      <hr />
+      {peliculas.map(peli =>
+        <Pelicula
+          img={peli.img}
+          titulo={peli.titulo}
+          actores={peli.actores}
+          descripcion={peli.descripcion}
+          duracion={peli.duracion}
+          etiquetas={peli.etiquetas}
+        ></Pelicula>)}
     </div>
   );
 }

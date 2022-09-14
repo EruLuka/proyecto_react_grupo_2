@@ -1,0 +1,42 @@
+[
+    {
+        "img":"/img/Sonic 2.jpg",
+        "titulo":"SONIC 2: LA PELÍCULA",
+        "actores":"James Marsden, Ben Schwartz, Idris Elba, Jim Carrey",
+        "descripcion":"Después de establecerse en Green Hills, Sonic quiere demostrar que tiene madera de héroe. La prueba de fuego llega con el retorno del malvado Robotnik, y su nuevo compinche, Knuckles, en busca de una esmeralda que destruye civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas.",
+        "duracion":"DURACIÓN: 2h 2m",
+        "etiquetas":"ETIQUETAS: Aventura/Comedia"
+    },
+    {
+        "img":"/img/Detective Pikachu.jpg",
+        "titulo":"DETECTIVE PIKACHU",
+        "actores":"Ryan Reynolds, Justice Smith",
+        "descripcion":"El dectective Harry Goodman desaparece y su hijo Tom, a sus 21 años, investiga lo ocurrido junto a su antiguo compañero Pokémon: el Detective Pikachu. Ambos unirán fuerzas para resolver las pistas de las calles de Tyme City y así encontrarlo. En esta ciudad hiperrealista encontrarán a múltiples Pokémon y descubrirán el complot detrás de la desaparición de su padre.",
+        "duracion":"DURACIÓN: 1h 44m",
+        "etiquetas":"ETIQUETAS: Fantasía/Infantil"
+    },
+    {
+        "img":"/img/Mortal Kombat.jpg",
+        "titulo":"MORTAL KOMBAT",
+        "actores":"Lewis Tan, Jessica McNamee, Mehcad Brooks",
+        "descripcion":"Cole Young, el luchador de MMA, acostumbrado a recibir palizas por dinero, desconoce su ascendencia, y tampoco sabe por qué el emperador Shang Tsung de Outworld ha enviado a su mejor guerrero, Sub-Zero, un Cryomancer sobrenatural, para dar caza a Cole. Ante esta situación, Cole teme por la seguridad de su familia y busca a Sonya Blade siguiendo las indicaciones de Jax, un comandante de las Fuerzas Especiales que tiene la misma extraña marca de dragón con la que nació Cole.",
+        "duracion":"DURACIÓN: 1h 50m",
+        "etiquetas":"ETIQUETAS: Acción/Fantasía"
+    },
+    {
+        "img":"/img/Uncharted.jpg",
+        "titulo":"UNCHARTED: FUERA DEL MAPA",
+        "actores":"Tom Holland, Mark Wahlberg",
+        "descripcion":"El cazador de tesoros Victor Sullivan recluta a Nathan Drake para que lo ayude a recuperar una fortuna de 500 años de antigüedad. Lo que comienza como un atraco se convierte en una competencia contra el despiadado Santiago Moncada.",
+        "duracion":"DURACIÓN: 1h 56m",
+        "etiquetas":"ETIQUETAS: Aventura/Acción"
+    },
+    {
+        "img":"/img/Super Mario.jpeg",
+        "titulo":"SUPER MARIO",
+        "actores":"Chris Pratt, Charlie Day, Anya Taylor-Joy",
+        "descripcion":"Próximamente...",
+        "duracion":"",
+        "etiquetas":""
+    }
+]
